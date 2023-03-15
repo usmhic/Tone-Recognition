@@ -1,4 +1,4 @@
-## A Comprehensive Guide & Demonstration to Training Voice Recognition Models with Feature Extraction using Generic Algorithms.
+## A Comprehensive Guide & Demonstration of Training Voice Recognition Models with Feature Extraction using Generic Algorithms.
 
 Our goal is to create an application that not only understands your voice commands but also show how the AI-powered voice recognition system works. We're dedicated to providing a comprehensive explanation of the underlying technology.
 
