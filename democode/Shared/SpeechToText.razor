@@ -1,0 +1,34 @@
+﻿<RadzenRow>
+    <RadzenColumn Size="6">
+        <RadzenSpeechToTextButton Change="@(args => OnSpeechCaptured(args, false, "Button1"))" />
+        <EventConsole @ref=@console />
+    </RadzenColumn>
+    <RadzenColumn Size="6">
+        <RadzenSpeechToTextButton Change="@(args => OnSpeechCaptured(args, true, "Button2"))" />
+        <RadzenTextArea @bind-Value=@value Change=@(args => OnTextAreaChange(args, "TextArea")) class="w-100" Style="margin-top:15px" />
+     </RadzenColumn>
+</RadzenRow>
+
+@code {
+    string value;
+    EventConsole console;
+
+    void OnTextAreaChange(string value, string name)
+    {
+        console.Log($"{name} value changed to {value}");
+    }
+
+    async void OnSpeechCaptured(string speechValue, bool updateTextArea, string name)
+    {
+        console.Log($"Speech Captured from {name}: {speechValue}");
+        var api = new OpenAI_API.OpenAIAPI("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");
+        var result = await api.Completions.GetCompletion(speechValue);
+        console.Log($"AI answer: {result}");
+        if (updateTextArea)
+        {
+            value += speechValue;
+        }
+
+    }
+
+}

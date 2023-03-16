@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ia7BEXWwAnpErjvlMcI/BDUwhFmmF1Fm0qLNf+xyx1asFyWHN//eSD56DsKOE4/6qG2fWkun8uW99jg15A1Gtw==",
+  "dgSpecHash": "yFojgaNEXZNvCZRPqvP1jWE2Bfqvrt8wZHRQrxDzoZDF6UgkSlXDqQ0At1hLWvBu1hX/ZsibRq1tox2jbqgObQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\democode\\democode.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\usama\\.nuget\\packages\\libsassbuilder\\2.0.1\\libsassbuilder.2.0.1.nupkg.sha512",
     "C:\\Users\\usama\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.3\\microsoft.aspnetcore.authorization.7.0.3.nupkg.sha512",
     "C:\\Users\\usama\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.3\\microsoft.aspnetcore.components.7.0.3.nupkg.sha512",
     "C:\\Users\\usama\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.3\\microsoft.aspnetcore.components.analyzers.7.0.3.nupkg.sha512",
@@ -12,6 +13,8 @@
     "C:\\Users\\usama\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.3\\microsoft.aspnetcore.components.webassembly.7.0.3.nupkg.sha512",
     "C:\\Users\\usama\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\7.0.3\\microsoft.aspnetcore.components.webassembly.devserver.7.0.3.nupkg.sha512",
     "C:\\Users\\usama\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.3\\microsoft.aspnetcore.metadata.7.0.3.nupkg.sha512",
+    "C:\\Users\\usama\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\usama\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\usama\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\usama\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\usama\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.3\\microsoft.extensions.configuration.binder.7.0.3.nupkg.sha512",
@@ -28,7 +31,11 @@
     "C:\\Users\\usama\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\usama\\.nuget\\packages\\microsoft.jsinterop\\7.0.3\\microsoft.jsinterop.7.0.3.nupkg.sha512",
     "C:\\Users\\usama\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.3\\microsoft.jsinterop.webassembly.7.0.3.nupkg.sha512",
+    "C:\\Users\\usama\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\usama\\.nuget\\packages\\openai\\1.6.0\\openai.1.6.0.nupkg.sha512",
+    "C:\\Users\\usama\\.nuget\\packages\\radzen.blazor\\4.7.11\\radzen.blazor.4.7.11.nupkg.sha512",
     "C:\\Users\\usama\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
+    "C:\\Users\\usama\\.nuget\\packages\\system.linq.dynamic.core\\1.2.22\\system.linq.dynamic.core.1.2.22.nupkg.sha512",
     "C:\\Users\\usama\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\usama\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\usama\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.3\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.3.nupkg.sha512"

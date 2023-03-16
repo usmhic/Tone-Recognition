@@ -48,6 +48,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.3, )"
+            },
+            "OpenAI": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Radzen.Blazor": {
+              "target": "Package",
+              "version": "[4.7.11, )"
             }
           },
           "imports": [

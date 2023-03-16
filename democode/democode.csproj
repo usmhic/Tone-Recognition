@@ -7,8 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Shared\Components\**" />
+    <Content Remove="Shared\Components\**" />
+    <EmbeddedResource Remove="Shared\Components\**" />
+    <None Remove="Shared\Components\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.3" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.3" PrivateAssets="all" />
+    <PackageReference Include="OpenAI" Version="1.6.0" />
+    <PackageReference Include="Radzen.Blazor" Version="4.7.11" />
   </ItemGroup>
 
 </Project>
