@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = webapp
+build_property.RootNamespace = webapp
+build_property.ProjectDir = C:\Users\usama\Documents\Github\voice-command-web-app\webapp\webapp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\usama\Documents\Github\voice-command-web-app\webapp\webapp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/usama/Documents/Github/voice-command-web-app/webapp/webapp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/usama/Documents/Github/voice-command-web-app/webapp/webapp/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/usama/Documents/Github/voice-command-web-app/webapp/webapp/Pages/GettingStarted.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2V0dGluZ1N0YXJ0ZWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/usama/Documents/Github/voice-command-web-app/webapp/webapp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/usama/Documents/Github/voice-command-web-app/webapp/webapp/Pages/References.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVmZXJlbmNlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/usama/Documents/Github/voice-command-web-app/webapp/webapp/Pages/UseCaseDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlQ2FzZURlbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/usama/Documents/Github/voice-command-web-app/webapp/webapp/Shared/EventConsole.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEV2ZW50Q29uc29sZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/usama/Documents/Github/voice-command-web-app/webapp/webapp/Shared/SpeechToText.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNwZWVjaFRvVGV4dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/usama/Documents/Github/voice-command-web-app/webapp/webapp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/usama/Documents/Github/voice-command-web-app/webapp/webapp/Shared/Documentation.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXERvY3VtZW50YXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-10vxzs6vny
+
+[C:/Users/usama/Documents/Github/voice-command-web-app/webapp/webapp/Shared/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-0y8n9l64pb
+
+[C:/Users/usama/Documents/Github/voice-command-web-app/webapp/webapp/Shared/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-7y0qkcmg2r
+
+[C:/Users/usama/Documents/Github/voice-command-web-app/webapp/webapp/Shared/Hero.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhlcm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-18g9xqujsa
+
+[C:/Users/usama/Documents/Github/voice-command-web-app/webapp/webapp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-sgrmodbprq
+
+[C:/Users/usama/Documents/Github/voice-command-web-app/webapp/webapp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-lxwpo0c7wz
