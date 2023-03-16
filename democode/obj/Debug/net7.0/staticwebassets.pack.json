@@ -65,10 +65,6 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\democode\\wwwroot\\icon-192.png",
-      "PackagePath": "staticwebassets\\icon-192.png"
-    },
-    {
       "Id": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\democode\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pR66H1QEOwqnC1lny92h4HIn5FfWxDY0++D+CjJ6430=",
+  "Hash": "sMBHs0r4ZucqIE4C+Yymm2pKsHPhK/BPTstwQZ1Syqw=",
   "Source": "democode",
   "BasePath": "/",
   "Mode": "Root",
@@ -7852,23 +7852,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
-    },
-    {
-      "Identity": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\democode\\wwwroot\\icon-192.png",
-      "SourceId": "democode",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\democode\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "icon-192.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\icon-192.png"
     },
     {
       "Identity": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\democode\\wwwroot\\index.html",
