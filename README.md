@@ -7,9 +7,4 @@ Our goal is to kickstart an AI-powered voice recognition application that not on
 2. Creating a DLL for the Genetic Algorithm: How to Use the Algorithm in Speech AI Model Training.
 3. Creating a Web App as Use Case Demonstration: A Web App that Interacts with Users Based on Tone, Powered by OpenAI.
 
-
-## 📌 1. Tone Recognition with Genetic Algorithms:
-
-## 📌 2. Creating a DLL for the Genetic Algorithm:
-
-## 📌 3. Creating a Web App as Use Case Demonstration:
+by Oussama Hichou
