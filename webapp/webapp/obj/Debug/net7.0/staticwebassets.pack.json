@@ -69,8 +69,16 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\webapp\\webapp\\wwwroot\\sample-data\\weather.json",
-      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+      "Id": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\webapp\\webapp\\wwwroot\\scripts\\Alert.js",
+      "PackagePath": "staticwebassets\\scripts\\Alert.js"
+    },
+    {
+      "Id": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\webapp\\webapp\\wwwroot\\scripts\\HuggingFace.js",
+      "PackagePath": "staticwebassets\\scripts\\HuggingFace.js"
+    },
+    {
+      "Id": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\webapp\\webapp\\wwwroot\\scripts\\dotNetToJsSamples.js",
+      "PackagePath": "staticwebassets\\scripts\\dotNetToJsSamples.js"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.webapp.props",

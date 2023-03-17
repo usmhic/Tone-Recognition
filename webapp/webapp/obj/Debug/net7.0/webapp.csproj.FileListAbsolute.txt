@@ -847,6 +847,6 @@ C:\Users\usama\Documents\Github\voice-command-web-app\webapp\webapp\obj\Debug\ne
 C:\Users\usama\Documents\Github\voice-command-web-app\webapp\webapp\obj\Debug\net7.0\webapp.pdb
 C:\Users\usama\Documents\Github\voice-command-web-app\webapp\webapp\obj\Debug\net7.0\ref\webapp.dll
 C:\Users\usama\Documents\Github\voice-command-web-app\webapp\webapp\obj\Debug\net7.0\scopedcss\Shared\Header.razor.rz.scp.css
-C:\Users\usama\Documents\Github\voice-command-web-app\webapp\webapp\obj\Debug\net7.0\scopedcss\Shared\Hero.razor.rz.scp.css
 C:\Users\usama\Documents\Github\voice-command-web-app\webapp\webapp\obj\Debug\net7.0\scopedcss\Shared\Footer.razor.rz.scp.css
 C:\Users\usama\Documents\Github\voice-command-web-app\webapp\webapp\obj\Debug\net7.0\scopedcss\Shared\Documentation.razor.rz.scp.css
+C:\Users\usama\Documents\Github\voice-command-web-app\webapp\webapp\obj\Debug\net7.0\scopedcss\Shared\Intro.razor.rz.scp.css

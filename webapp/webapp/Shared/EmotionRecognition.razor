@@ -1,4 +1,6 @@
-﻿<RadzenRow>
+﻿@inject IJSRuntime js
+
+<RadzenRow>
     <RadzenColumn Size="6">
         <RadzenSpeechToTextButton Change="@(args => OnSpeechCaptured(args, false, "Button1"))" />
         <EventConsole @ref=@console />
@@ -9,7 +11,25 @@
      </RadzenColumn>
 </RadzenRow>
 
+<textarea class="form-control" placeholder="Enter message" @ref="textAreaReference"></textarea>
+<br>
+<button type="button" class="btn btn-primary" @onclick="PrintMessageAsync">
+    Get return value from JavaScript function invoked from .NET
+</button>
+<br>
+<br>
+<div class="alert alert-primary" role="alert">
+    Message: @message
+</div>
+
+
 @code {
+    private ElementReference textAreaReference;
+    private string message;
+    private async Task PrintMessageAsync()
+    {
+        message = await js.InvokeAsync<string>("dotNetToJsSamples.getValue", textAreaReference);
+    }
     string value;
     EventConsole console;
 
@@ -21,8 +41,8 @@
     async void OnSpeechCaptured(string speechValue, bool updateTextArea, string name)
     {
         console.Log($"Speech Captured from {name}: {speechValue}");
-        var api = new OpenAI_API.OpenAIAPI("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");
-        var result = await api.Chat.CreateChatCompletionAsync(speechValue);
+        var api = new OpenAI_API.OpenAIAPI("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");
+        var result = await api.Completions.GetCompletion(speechValue);
         console.Log($"AI answer: {result}");
         if (updateTextArea)
         {
@@ -30,5 +50,7 @@
         }
 
     }
+
+
 
 }

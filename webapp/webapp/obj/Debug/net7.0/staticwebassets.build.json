@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QIIo8qkNqsMDAZQqD2yvdpWlABLOVIzbqNbLAZ7NyjA=",
+  "Hash": "wWlL71G+Mawl81LbZ9ROeOuHC7s/UjDOISWYbkb2U7U=",
   "Source": "webapp",
   "BasePath": "/",
   "Mode": "Root",
@@ -7871,12 +7871,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\webapp\\webapp\\wwwroot\\sample-data\\weather.json",
+      "Identity": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\webapp\\webapp\\wwwroot\\scripts\\Alert.js",
       "SourceId": "webapp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\webapp\\webapp\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "sample-data/weather.json",
+      "RelativePath": "scripts/Alert.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7885,7 +7885,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
+      "OriginalItemSpec": "wwwroot\\scripts\\Alert.js"
+    },
+    {
+      "Identity": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\webapp\\webapp\\wwwroot\\scripts\\dotNetToJsSamples.js",
+      "SourceId": "webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\webapp\\webapp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "scripts/dotNetToJsSamples.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scripts\\dotNetToJsSamples.js"
+    },
+    {
+      "Identity": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\webapp\\webapp\\wwwroot\\scripts\\HuggingFace.js",
+      "SourceId": "webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usama\\Documents\\Github\\voice-command-web-app\\webapp\\webapp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "scripts/HuggingFace.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scripts\\HuggingFace.js"
     }
   ]
 }
